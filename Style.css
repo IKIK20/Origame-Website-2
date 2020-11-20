@@ -1,0 +1,37 @@
+h1{color:#a614d7;}
+
+.camel{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.hi{
+    display:flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.pigeon{
+    display:flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.bear{
+    display:flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.panda{
+    display:flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.cicada{
+    display:flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
